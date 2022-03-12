@@ -1,0 +1,15 @@
+{
+    "name": "e3rey/php-mvc_tutorial",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edgar Reyes",
+            "email": "3ereyes@gmail.com"
+        }
+    ],
+    "require": {}
+}
